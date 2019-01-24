@@ -1,0 +1,18 @@
+{
+  "name": "tron-trading",
+  "version": "0.0.1",
+  "description": "Follow trading closely",
+  "main": "server.js",
+  "repository": "git@github.com:shatyajeet/tron-trading.git",
+  "author": "Shatyajeet Parida <shatyajeet@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ioredis": "^4.5.1",
+    "kiteconnect": "^3.0.0-beta.3",
+    "node-fetch": "^2.3.0",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "sha256": "^0.2.0",
+    "winston": "^3.1.0"
+  }
+}
